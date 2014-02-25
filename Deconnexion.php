@@ -14,6 +14,8 @@
              session_destroy();
             
         ?>
+        <form action="index.php" />
+        <input id="OK" type="submit" name="OK" />
     </body>
 </html>
 
