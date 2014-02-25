@@ -38,6 +38,10 @@
         ?>
         <form method="post" action="" enctype="multipart/form-data">
         <div>
+            <br>
+            <br>
+            <br>
+            <br>
         <label for="login" >Identifiant :</label>
         
         <input id="login" type="text" name="login" />
