@@ -8,7 +8,7 @@
         
     </head>
     <body>
-        <h1><center>Vous êtes maintenant déconnêcté.</center></h1>
+        <h1><center>Vous êtes maintenant déconnecté.</center></h1>
         <?php
 
              session_destroy();
