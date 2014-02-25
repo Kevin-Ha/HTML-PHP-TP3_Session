@@ -30,6 +30,8 @@
         <title>Session</title>
     </head>
     <body>
+        <br>
+        <br>
         <h1 style="text-align:center">Authentification</h1>
         <?php
         if (isset($error) == true) {
