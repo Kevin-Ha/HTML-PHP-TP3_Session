@@ -45,7 +45,7 @@
             
         <div>
         <label for="mdp">Mot de passe :</label>
-        <input id="mdp" type="password" name="mdp" /> 
+        <input id="mdp" type="password" name="mdp" />  
         <input type="submit" name="Submit" value="Se connecter">
         </div>
         </form>
